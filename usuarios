@@ -8,7 +8,7 @@ uidNumber: 1001
 gidNumber: 3000
 homeDirectory: /home/Abel
 loginShell: /bin/bash
-userPassword: {crypt}x
+userPassword: 382001
 
 dn: uid=Daniel,ou=Usuarios,dc=asir2023,dc=local
 objectClass: top
@@ -20,7 +20,7 @@ uidNumber: 1002
 gidNumber: 3000
 homeDirectory: /home/Daniel
 loginShell: /bin/bash
-userPassword: {crypt}x
+userPassword: 382001
 
 dn: uid=Jorge,ou=Usuarios,dc=asir2023,dc=local
 objectClass: top
@@ -32,7 +32,7 @@ uidNumber: 1003
 gidNumber: 3000
 homeDirectory: /home/Jorge
 loginShell: /bin/bash
-userPassword: {crypt}x
+userPassword: 382001
 
 dn: uid=Carlos,ou=Usuarios,dc=asir2023,dc=local
 objectClass: top
@@ -44,7 +44,7 @@ uidNumber: 1004
 gidNumber: 2000
 homeDirectory: /home/Carlos
 loginShell: /bin/bash
-userPassword: {crypt}x
+userPassword: 382001
 
 dn: uid=Mariu,ou=Usuarios,dc=asir2023,dc=local
 objectClass: top
@@ -56,4 +56,4 @@ uidNumber: 1005
 gidNumber: 2000
 homeDirectory: /home/Mariu
 loginShell: /bin/bash
-userPassword: {crypt}x
+userPassword: 382001
